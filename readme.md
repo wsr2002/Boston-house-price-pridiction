@@ -1,3 +1,4 @@
+Continuous variables regression
 1. Data visualization
 2. Remove outliers using Z-score and isolation forest
 3. Make an elementary predict by correlation matrix
